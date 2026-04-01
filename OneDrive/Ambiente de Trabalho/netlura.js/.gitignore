@@ -1,0 +1,22 @@
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Node e ferramentas
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cobertura e build
+coverage/
+dist/
+build/
