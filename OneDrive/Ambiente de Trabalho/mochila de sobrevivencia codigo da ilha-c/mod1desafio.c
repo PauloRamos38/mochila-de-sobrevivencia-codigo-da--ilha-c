@@ -227,7 +227,7 @@ void buscarItem() {
 // ======================================================
 // Função principal do programa
 // ======================================================
-int main() {
+int mod1_main() {
 
     // Variável para armazenar a opção do menu
     int opcao;

@@ -442,7 +442,7 @@ void removerItemLista() {
 
     printf("\nItem removido da lista!\n");
 }
-int main() {
+int mod2_main() {
 
     // Variável para armazenar a opção do menu
     int opcao;
