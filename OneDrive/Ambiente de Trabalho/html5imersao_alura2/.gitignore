@@ -1,5 +1,0 @@
-# Ignorar dependências do Node.js
-node_modules/
-
-# Arquivos de sistema operacional
-.DS_Store
